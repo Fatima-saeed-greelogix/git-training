@@ -1,3 +1,9 @@
 develop file - update
 Updated again
+<<<<<<< Updated upstream
 this line will casuse conflict
+=======
+
+to test stash
+
+>>>>>>> Stashed changes
